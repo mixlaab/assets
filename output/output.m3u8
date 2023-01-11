@@ -2,6 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:17
 #EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="en",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog, public.accessibility.describes-music-and-sound",URI="output_vtt.m3u8"
 #EXTINF:16.683333,
 output0.ts
 #EXTINF:8.341667,
