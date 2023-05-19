@@ -11,5 +11,5 @@ https://videos-cloudfront.jwpsrv.com/6468789b_daffed268dd47f5ede7a3faf20f9bd798f
 #EXT-X-IMAGE-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=28800,RESOLUTION=320x180,CODECS="jpeg",URI="https://videos-cloudfront.jwpsrv.com/6468789b_8368f0d55a5be2d3d49a34db2716c356fce20c0e/jpeg/content/conversions/iy2GHAj1/videos/vXfx8z8m-34393775.mp4.m3u8"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=120000,CODECS="mp4a.40.2",SUBTITLES="subs"
 https://videos-cloudfront.jwpsrv.com/6468789b_b86c5efba6294ad830aa623499a221c1aa453270/content/conversions/iy2GHAj1/videos/vXfx8z8m-34393779.m4a.m3u8
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog",NAME="Unknown CC",URI="https://videos-cloudfront.jwpsrv.com/6468789b_1b2f91afa9fa32d2d19428e4e98a40a19de8753a/assets/tracks/k9uMa8zJ.webvtt.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog",NAME="Unknown CC",URI="https://videos-cloudfront.jwpsrv.com/6468789b_b1a8c7c5babd26180ee1d0a73ffe78638466bce7/assets/tracks/BfBPGDqS.webvtt.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog",URI="https://videos-cloudfront.jwpsrv.com/6468789b_1b2f91afa9fa32d2d19428e4e98a40a19de8753a/assets/tracks/k9uMa8zJ.webvtt.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog",URI="https://videos-cloudfront.jwpsrv.com/6468789b_b1a8c7c5babd26180ee1d0a73ffe78638466bce7/assets/tracks/BfBPGDqS.webvtt.m3u8"
